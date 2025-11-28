@@ -25,7 +25,7 @@ ACLARACIÓN: Los delete solo se podrán hacer si no hay restricciones SQL, no ap
 ## ✔️ Buenas prácticas utilizadas
 - Estructura clara por capas
 
-* Plantillas organizadas en src/main/resources/templates según MVC 
+* Plantillas organizadas
 
 + Validación y redireccionamientos en controladores
 
