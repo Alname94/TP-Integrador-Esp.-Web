@@ -34,5 +34,4 @@ ACLARACIÓN: Los delete solo se podrán hacer si no hay restricciones SQL, no ap
 
 ### Autor: Alejo Méndez
 
-> [!NOTE]
-Seguramente faltan algunas validaciones pero en general pude hacer funcionar todo lo quería.
+
